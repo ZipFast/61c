@@ -1,9 +1,3 @@
-/**
- * Restricted version of grep, as defined in the CS61C Fall 2018
- * course website for homework #2.
- *
- * You must not change this file.
- */
 
 #include <stdio.h>
 #include "matcher.h"
